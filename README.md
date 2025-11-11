@@ -35,6 +35,7 @@ football-performance-dashboard/
 │
 ├── requirements.txt       # Dependências do projeto
 └── README.md              # Este arquivo :)
+```
 
 ---
 
