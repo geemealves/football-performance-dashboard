@@ -40,6 +40,8 @@ football-performance-dashboard/
 
 ## 💻 Como executar o projeto
 
+---
+
 ### 1️⃣ Clonar o repositório
 ```bash
 git clone https://github.com/geemealves/football-performance-dashboard.git
