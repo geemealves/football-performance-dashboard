@@ -85,7 +85,3 @@ Eles **não representam times, ligas ou partidas reais** — são apenas exemplo
 
 ## 📜 Licença
 Este projeto está licenciado sob a licença **MIT** — você pode usar, modificar e distribuir à vontade, desde que mantenha a atribuição.
----
-
-## 📜 Licença
-Este projeto está licenciado sob a licença **MIT** — você pode usar, modificar e distribuir à vontade, desde que mantenha a atribuição.
