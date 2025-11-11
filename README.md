@@ -40,8 +40,6 @@ football-performance-dashboard/
 
 ## 💻 Como executar o projeto
 
----
-
 ### 1️⃣ Clonar o repositório
 ```bash
 git clone https://github.com/geemealves/football-performance-dashboard.git
@@ -70,7 +68,7 @@ O aplicativo será iniciado no navegador, geralmente em:
 ---
 
 ## 🧠 Tecnologias utilizadas
-- **Python 3.12+**
+- **Python 3.13.9**
 - **Streamlit**
 - **Pandas**
 - **Plotly Express**
@@ -82,6 +80,10 @@ O aplicativo será iniciado no navegador, geralmente em:
 Os dados foram **gerados automaticamente** usando o script `src/generate_data.py`.  
 Eles **não representam times, ligas ou partidas reais** — são apenas exemplos para fins de aprendizado e demonstração de visualização de dados esportivos.
 
+---
+
+## 📜 Licença
+Este projeto está licenciado sob a licença **MIT** — você pode usar, modificar e distribuir à vontade, desde que mantenha a atribuição.
 ---
 
 ## 📜 Licença
